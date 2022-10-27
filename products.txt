@@ -1,0 +1,26 @@
+[
+  {
+    "title": "camiseta River Plate titular",
+    "price": 15.387,
+    "thumbnail": "https://http2.m.jpg",
+    "id": 1
+  },
+  {
+    "title": "bonites nike Cr7",
+    "price": 14.887,
+    "thumbnail": "https://http2.efsfas.jpg",
+    "id": 2
+  },
+  {
+    "title": "camiseta Boca juniors titular",
+    "price": 15.347,
+    "thumbnail": "https://http2.mfggag.jpg",
+    "id": 3
+  },
+  {
+    "title": "camiseta River Plate titlar",
+    "price": 15.387,
+    "thumbnail": "https://http2.m.jpg",
+    "id": 4
+  }
+]
